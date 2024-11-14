@@ -1,0 +1,123 @@
+10-08-2024,Beuh,20.00,No category
+05-08-2024,Maman voiture,300.00,Reccurent
+31-08-2024,Oma,200.00,Reccurent
+12-08-2024,Netflix,15.99,Subscription
+20-08-2024,Café,3.50,No category
+22-08-2024,Essence,60.00,Transport
+28-08-2024,Alimentation,150.00,No category
+14-08-2024,Dîner entre amis,75.00,Leisure
+09-08-2024,Abonnement salle de sport,45.00,Subscription
+15-08-2024,Électricité,100.00,Bills
+07-08-2024,Ciné,12.00,Leisure
+30-08-2024,Assurance voiture,250.00,Bills
+01-08-2024,Spotify,9.99,Subscription
+08-08-2024,Coiffeur,25.00,Personal care
+19-08-2024,Achat de vêtements,120.00,Shopping
+03-08-2024,Internet,50.00,Bills
+16-08-2024,Fleurs pour Oma,30.00,Gifts
+25-08-2024,Taxi,20.00,Transport
+04-08-2024,Amazon,45.00,Shopping
+29-08-2024,Donations,15.00,Charity
+
+10-08-2024,Beuh,20.00,NoCategory
+05-08-2024,Maman voiture,300.00,Reccurent
+31-08-2024,Oma,200.00,Reccurent
+12-08-2024,Netflix,15.99,Subscription
+20-08-2024,Café,3.50,NoCategory
+22-08-2024,Essence,60.00,Transport
+28-08-2024,Alimentation,150.00,NoCategory
+14-08-2024,Dîner entre amis,75.00,Leisure
+09-08-2024,Abonnement salle de sport,45.00,Subscription
+15-08-2024,Électricité,100.00,Bills
+07-08-2024,Ciné,12.00,Leisure
+30-08-2024,Assurance voiture,250.00,Bills
+01-08-2024,Spotify,9.99,Subscription
+08-08-2024,Coiffeur,25.00,PersonalCare
+19-08-2024,Achat de vêtements,120.00,Shopping
+03-08-2024,Internet,50.00,Bills
+16-08-2024,Fleurs pour Oma,30.00,Gifts
+25-08-2024,Taxi,20.00,Transport
+04-08-2024,Amazon,45.00,Shopping
+29-08-2024,Donations,15.00,Charity
+
+10-08-2024,Beuh,20.00,No category
+05-08-2024,Maman voiture,300.00,Reccurent
+31-08-2024,Oma,200.00,Reccurent
+12-08-2024,Netflix,15.99,Subscription
+20-08-2024,Café,3.50,No category
+22-08-2024,Essence,60.00,Transport
+28-08-2024,Alimentation,150.00,No category
+14-08-2024,Dîner entre amis,75.00,Leisure
+09-08-2024,Abonnement salle de sport,45.00,Subscription
+15-08-2024,Électricité,100.00,Bills
+07-08-2024,Ciné,12.00,Leisure
+30-08-2024,Assurance voiture,250.00,Bills
+01-08-2024,Spotify,9.99,Subscription
+08-08-2024,Coiffeur,25.00,Personal care
+19-08-2024,Achat de vêtements,120.00,Shopping
+03-08-2024,Internet,50.00,Bills
+16-08-2024,Fleurs pour Oma,30.00,Gifts
+25-08-2024,Taxi,20.00,Transport
+04-08-2024,Amazon,45.00,Shopping
+29-08-2024,Donations,15.00,Charity
+
+10-08-2024,Beuh,20.00,No category
+05-08-2024,Maman voiture,300.00,Reccurent
+31-08-2024,Oma,200.00,Reccurent
+12-08-2024,Netflix,15.99,Subscription
+20-08-2024,Café,3.50,No category
+22-08-2024,Essence,60.00,Transport
+28-08-2024,Alimentation,150.00,No category
+14-08-2024,Dîner entre amis,75.00,Leisure
+09-08-2024,Abonnement salle de sport,45.00,Subscription
+15-08-2024,Électricité,100.00,Bills
+07-08-2024,Ciné,12.00,Leisure
+30-08-2024,Assurance voiture,250.00,Bills
+01-08-2024,Spotify,9.99,Subscription
+08-08-2024,Coiffeur,25.00,Personal care
+19-08-2024,Achat de vêtements,120.00,Shopping
+03-08-2024,Internet,50.00,Bills
+16-08-2024,Fleurs pour Oma,30.00,Gifts
+25-08-2024,Taxi,20.00,Transport
+04-08-2024,Amazon,45.00,Shopping
+29-08-2024,Donations,15.00,Charity
+10-08-2024,Beuh,20.00,No category
+05-08-2024,Maman voiture,300.00,Reccurent
+31-08-2024,Oma,200.00,Reccurent
+12-08-2024,Netflix,15.99,Subscription
+20-08-2024,Café,3.50,No category
+22-08-2024,Essence,60.00,Transport
+28-08-2024,Alimentation,150.00,No category
+14-08-2024,Dîner entre amis,75.00,Leisure
+09-08-2024,Abonnement salle de sport,45.00,Subscription
+15-08-2024,Électricité,100.00,Bills
+07-08-2024,Ciné,12.00,Leisure
+30-08-2024,Assurance voiture,250.00,Bills
+01-08-2024,Spotify,9.99,Subscription
+08-08-2024,Coiffeur,25.00,Personal care
+19-08-2024,Achat de vêtements,120.00,Shopping
+03-08-2024,Internet,50.00,Bills
+16-08-2024,Fleurs pour Oma,30.00,Gifts
+25-08-2024,Taxi,20.00,Transport
+04-08-2024,Amazon,45.00,Shopping
+29-08-2024,Donations,15.00,Charity
+10-08-2024,Beuh,20.00,No category
+05-08-2024,Maman voiture,300.00,Reccurent
+31-08-2024,Oma,200.00,Reccurent
+12-08-2024,Netflix,15.99,Subscription
+20-08-2024,Café,3.50,No category
+22-08-2024,Essence,60.00,Transport
+28-08-2024,Alimentation,150.00,No category
+14-08-2024,Dîner entre amis,75.00,Leisure
+09-08-2024,Abonnement salle de sport,45.00,Subscription
+15-08-2024,Électricité,100.00,Bills
+07-08-2024,Ciné,12.00,Leisure
+30-08-2024,Assurance voiture,250.00,Bills
+01-08-2024,Spotify,9.99,Subscription
+08-08-2024,Coiffeur,25.00,Personal care
+19-08-2024,Achat de vêtements,120.00,Shopping
+03-08-2024,Internet,50.00,Bills
+16-08-2024,Fleurs pour Oma,30.00,Gifts
+25-08-2024,Taxi,20.00,Transport
+04-08-2024,Amazon,45.00,Shopping
+29-08-2024,Donations,15.00,Charity

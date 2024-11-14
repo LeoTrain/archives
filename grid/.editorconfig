@@ -1,0 +1,11 @@
+# Indique que cet éditeur de configuration est la racine
+root = true
+
+# Configuration par défaut pour tous les fichiers
+[*]
+indent_style = space         # Utiliser des espaces pour l'indentation
+indent_size = 4              # Utiliser 4 espaces par niveau d'indentation
+tab_width = 4                # La largeur d'une tabulation est de 4 caractères
+end_of_line = lf             # Utiliser des sauts de ligne LF (Unix)
+charset = utf-8              # Utiliser l'encodage UTF-8
+

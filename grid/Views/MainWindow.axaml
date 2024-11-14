@@ -1,0 +1,76 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="grid.Views.MainWindow"
+        Title="Grid Example"
+        Width="400" Height="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBox Name="InputNumber" Grid.Row="0" Grid.Column="0" Margin="25"
+                 Height="50" FontSize="20" Padding="10"
+                 Background="#FFFFFF" Foreground="#333333" 
+                 BorderBrush="#4CAF50" BorderThickness="2">
+            <TextBox.Styles>
+                <Style Selector="TextBox">
+                    <Setter Property="CornerRadius" Value="8"/>
+                </Style>
+            </TextBox.Styles>
+        </TextBox>
+
+        <Border CornerRadius="5" BorderBrush="Gray" BorderThickness="1" Padding="5" Margin="75" Grid.Row="1" Grid.Column="0">
+            <RadioButton Name="DeziBox" Content="Dezi" 
+                      IsChecked="True" 
+                      FontSize="16" 
+                      HorizontalAlignment="Center" 
+                      VerticalAlignment="Center"
+                      Checked="OnCheckBoxChecked"/>
+        </Border>
+        <Border CornerRadius="5" BorderBrush="Gray" BorderThickness="1" Padding="5" Margin="75" Grid.Row="2" Grid.Column="0">
+            <RadioButton Name="DualBox" Content="Dual" 
+                      IsChecked="False" 
+                      FontSize="16" 
+                      HorizontalAlignment="Center" 
+                      VerticalAlignment="Center"
+                      Checked="OnCheckBoxChecked"/> 
+        </Border>
+        <Border CornerRadius="5" BorderBrush="Gray" BorderThickness="1" Padding="5" Margin="75" Grid.Row="3" Grid.Column="0">
+            <RadioButton Name="HexaBox" Content="Hexa" 
+                      IsChecked="False" 
+                      FontSize="16" 
+                      HorizontalAlignment="Center" 
+                      VerticalAlignment="Center"
+                      Checked="OnCheckBoxChecked"/> 
+        </Border>
+
+
+        <Button Grid.Row="0" Grid.Column="1" Margin="25"
+                Content="Berechnen" FontSize="20" Padding="15,10"
+                Background="#4CAF50" Foreground="#FFFFFF" 
+                BorderBrush="#388E3C" BorderThickness="2" 
+                HorizontalAlignment="Center" VerticalAlignment="Center"
+                Click="OnButtonClick">
+            <Button.Styles>
+                <Style Selector="Button">
+                    <Setter Property="CornerRadius" Value="8"/>
+                </Style>
+            </Button.Styles>
+        </Button>
+
+
+        <TextBlock Name="DeziTextBlock" Grid.Row="1" Grid.Column="2" Margin="25,25,25,25" Text="Dezi: " HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBlock Name="DualTextBlock" Grid.Row="2" Grid.Column="2" Margin="25,25,25,25" Text="Dual: " HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBlock Name="HexaTextBlock" Grid.Row="3" Grid.Column="2" Margin="25,25,25,25" Text="Hexa: " HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Grid>
+</Window>
+

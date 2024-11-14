@@ -1,0 +1,14 @@
+/Users/ftl/git/wifi/code/42/bin/Debug/net8.0/42
+/Users/ftl/git/wifi/code/42/bin/Debug/net8.0/42.deps.json
+/Users/ftl/git/wifi/code/42/bin/Debug/net8.0/42.runtimeconfig.json
+/Users/ftl/git/wifi/code/42/bin/Debug/net8.0/42.dll
+/Users/ftl/git/wifi/code/42/bin/Debug/net8.0/42.pdb
+/Users/ftl/git/wifi/code/42/obj/Debug/net8.0/42.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ftl/git/wifi/code/42/obj/Debug/net8.0/42.AssemblyInfoInputs.cache
+/Users/ftl/git/wifi/code/42/obj/Debug/net8.0/42.AssemblyInfo.cs
+/Users/ftl/git/wifi/code/42/obj/Debug/net8.0/42.csproj.CoreCompileInputs.cache
+/Users/ftl/git/wifi/code/42/obj/Debug/net8.0/42.dll
+/Users/ftl/git/wifi/code/42/obj/Debug/net8.0/refint/42.dll
+/Users/ftl/git/wifi/code/42/obj/Debug/net8.0/42.pdb
+/Users/ftl/git/wifi/code/42/obj/Debug/net8.0/42.genruntimeconfig.cache
+/Users/ftl/git/wifi/code/42/obj/Debug/net8.0/ref/42.dll
