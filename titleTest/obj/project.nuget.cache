@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ptI4mLziJQ0=",
+  "success": true,
+  "projectFilePath": "/Users/ftl/lab/git/currentProjects/titleTest/titleTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/ftl/.nuget/packages/figgle/0.5.1/figgle.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
